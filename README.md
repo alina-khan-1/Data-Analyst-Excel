@@ -17,3 +17,17 @@ This project aims to demonstrate data analysis using Excel, showcasing skills in
 - Which channel is contributing to maximum sales?
 - Highest selling category?
 - Percantage of total order delivered 
+
+## Process
+1. Data Cleaning & Processing
+- Removed duplicate and incorrect data entries.
+- Formatted data for better readability and analysis.
+
+2. Data Analysis & Visualization
+- Created pivot tables for summary analysis.
+- Built interactive charts for visual representation.
+
+3. Dashboard Creation
+- Added slicers to filter data dynamically.
+- Linked slicers to charts for interactive analysis.
+
