@@ -40,3 +40,9 @@ This project aims to demonstrate data analysis using Excel, showcasing skills in
 ## Final Conclusion
 
 This project demonstrates the power of Excel dashboards in solving business problems through data analysis and visualization. It helps businesses make data-driven decisions efficiently.
+
+## Skills Gained
+- Data Cleaning & Processing
+- Data Analytics & Visualization
+- Creating Interactive Dashboards
+- Business Insights & Reporting
