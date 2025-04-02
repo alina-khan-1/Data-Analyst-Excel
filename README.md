@@ -19,7 +19,7 @@ This project aims to demonstrate data analysis using Excel, showcasing skills in
 - Percantage of total order delivered 
 
 ## Process
-1. Data Cleaning & Processing
+*1. Data Cleaning & Processing
 - Removed duplicate and incorrect data entries.
 - Formatted data for better readability and analysis.
 
