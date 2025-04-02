@@ -31,3 +31,12 @@ This project aims to demonstrate data analysis using Excel, showcasing skills in
 - Added slicers to filter data dynamically.
 - Linked slicers to charts for interactive analysis.
 
+##Project Insights
+
+- Selecting a specific platform (e.g., Ajio or Amazon) updates all charts automatically.
+
+- The interactive dashboard allows businesses to quickly analyze sales trends, revenue distribution, and key performance indicators.
+
+##Final Conclusion
+
+This project demonstrates the power of Excel dashboards in solving business problems through data analysis and visualization. It helps businesses make data-driven decisions efficiently.
