@@ -23,11 +23,11 @@ This project aims to demonstrate data analysis using Excel, showcasing skills in
 - Removed duplicate and incorrect data entries.
 - Formatted data for better readability and analysis.
 
-2. Data Analysis & Visualization
+**2. Data Analysis & Visualization**
 - Created pivot tables for summary analysis.
 - Built interactive charts for visual representation.
 
-3. Dashboard Creation
+**3. Dashboard Creation**
 - Added slicers to filter data dynamically.
 - Linked slicers to charts for interactive analysis.
 
