@@ -1,2 +1,3 @@
-# Data-Analyst-Excel
-This project is a Data Analytics Dashboard in Excel that allows users to analyze sales data interactively. By using slicers, the charts update dynamically based on selected filters (e.g., Amazon, Ajio). The project covers data cleaning, processing, visualization, and interactive reporting.
+# Full Project in Excel with Interactive Dashboard
+## Project Objective
+This project aims to demonstrate data analysis using Excel, showcasing skills in data cleaning, processing, visualization, and interactive reporting. The goal is to create an interactive dashboard that dynamically updates charts based on user selection, helping to analyze business data effectively.
